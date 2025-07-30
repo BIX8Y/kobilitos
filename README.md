@@ -1,10 +1,20 @@
 ACLC San Pablo City
 
 Veneracion,Kurt Benedict Pangan 2300083971
+
 Guevarra Ma. Paula Aguila 23000257110
 
 DEPLOYMENT LINK:   http://localhost/kobilitos/index.html
-Note Please Run XAMPP Frist.
+
+✅ How to run it locally:
+
+Place all files in a folder like kobilitos.
+
+Install and run a local server like XAMPP or WAMP.
+
+Put kobilitos inside the htdocs folder (XAMPP).
+
+Start Apache and go to http://localhost/kobilitos
 
 At Kobilitos, we don’t just serve meals — we serve magical experiences on a plate! Our vibrant restaurant is a haven for food lovers of all ages, from little adventurers who crave crispy fries and colorful sundaes, to grown-up gourmets seeking a sizzling steak or a creamy lasagna that melts hearts with every bite.
 

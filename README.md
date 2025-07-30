@@ -4,6 +4,7 @@ Veneracion,Kurt Benedict Pangan 2300083971
 Guevarra Ma. Paula Aguila 23000257110
 
 URL:   http://localhost/kobilitos/index.html
+Note Please Run XAMPP Frist.
 
 At Kobilitos, we don’t just serve meals — we serve magical experiences on a plate! Our vibrant restaurant is a haven for food lovers of all ages, from little adventurers who crave crispy fries and colorful sundaes, to grown-up gourmets seeking a sizzling steak or a creamy lasagna that melts hearts with every bite.
 

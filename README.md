@@ -4,8 +4,6 @@ Veneracion,Kurt Benedict Pangan 2300083971
 
 Guevarra Ma. Paula Aguila 23000257110
 
-DEPLOYMENT LINK:   http://localhost/kobilitos/index.html
-
 ✅ How to run it locally:
 
 Place all files in a folder like kobilitos.

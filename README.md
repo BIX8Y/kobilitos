@@ -1,10 +1,12 @@
 ✨WELCOME TO KOBILITOS✨
 
-ACLC San Pablo City
+ACLC San Pablo City / AMACC Angeles City
 
 Veneracion,Kurt Benedict Pangan 2300083971
 
 Guevarra Ma. Paula Aguila 23000257110
+
+Kristine Garcia 22015648810
 
 ✅ How to run it locally:
 
